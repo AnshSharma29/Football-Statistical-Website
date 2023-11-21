@@ -1,0 +1,163 @@
+body{
+
+    font-family: Arial;
+    background: -webkit-linear-gradient(to right, #10dac9, #1df82f);
+    background: linear-gradient(to right, #15579950, #37ff9b);
+    color:whitesmoke;
+    
+}
+
+.heading{
+
+    font-family: Arial;
+    color:whitesmoke;
+
+}
+
+.form-container {
+    width: 1300px; /* Adjust the width as needed */
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    margin: 0;
+}
+
+
+h1{
+
+    text-align: center;
+}
+
+form{
+
+    width: 50rem;
+    padding: 80px;
+    margin: auto;
+    color: whitesmoke;
+    backdrop-filter: blue(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(11, 15, 13, 0.582);
+    border-radius: 15px;
+    border: 1px solid rgba(255,255,255, 0.125);
+}
+
+input{
+
+    width: 100%;
+    margin: 10px 10px;
+    border-radius: 5px;
+    padding: 15px 18px;
+    box-sizing: border-box;
+}
+
+
+input[type=text], input[type=password]{
+
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 15px 18px;
+    box-sizing: border-box;
+}
+
+button{
+
+    background-color: #030804;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+
+}
+
+
+button:hover{
+
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.headingsContainer{
+    text-align: center;
+}
+.mainContainer{
+    padding: 16px;
+}
+
+.subcontainer{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subcontainer a{
+
+    font-size:16px;
+    margin-bottom: 12px;
+}
+
+.register{
+
+    color:white;
+    text-align: center;
+}
+
+.register a{
+
+    color: rgba(74, 146, 245)
+}
+
+.register a:link{
+
+    text-decoration: none;
+}
+
+.regi button{
+
+        background-color: white;
+        border: 2px solid black;
+        color: green;
+        text-align: center;
+        display: inline-block;
+        
+    
+}
+
+@media screen and (max-width: 600px) {
+    form{
+      width: 90%;
+      
+    }
+  
+  }
+  
+  @media screen and (max-width: 400px) {
+    form{
+      width: 90%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    /* Adjust styles for screens with a maximum width of 768px */
+    .form-container {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 900px) {
+    /* Adjust styles for screens with a maximum width of 768px */
+    .form-container {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 500px) {
+    /* Adjust styles for screens with a maximum width of 768px */
+    .form-container {
+        max-width: 90%;
+    }
+}
