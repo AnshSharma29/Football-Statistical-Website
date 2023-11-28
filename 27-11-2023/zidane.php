@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/zidane.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Zinedine Yazid Zidane, born on June 23, 1972, in Marseille, France, is a former French footballer and one of the greatest midfielders of all time. Zidane achieved legendary status for his elegant playing style, vision, and technical skill. Notable for leading the French national team to victory in the 1998 FIFA World Cup and the UEFA Euro 2000, he also had a successful club career with clubs like Juventus and Real Madrid. Zidane is famously remembered for his performances in the 1998 World Cup final and the 2002 UEFA Champions League final. After retiring as a player, he transitioned to coaching, leading Real Madrid to three consecutive UEFA Champions League titles from 2016 to 2018.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

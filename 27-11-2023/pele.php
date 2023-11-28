@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/pele.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Edson Arantes do Nascimento, commonly known as Pelé, is a retired Brazilian footballer born on October 23, 1940. Regarded as one of the greatest football players in history, Pelé achieved immense success during his career. He won three FIFA World Cups with Brazil in 1958, 1962, and 1970, becoming the only player to achieve this feat. Pelé's extraordinary goal-scoring ability, flair, and skill contributed to his global acclaim. He spent the majority of his club career with Santos in Brazil and later played for the New York Cosmos in the United States. Pelé is a three-time FIFA World Player of the Century and remains an iconic figure in the world of football.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

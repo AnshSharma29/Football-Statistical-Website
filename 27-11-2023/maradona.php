@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/maradona.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Diego Maradona (1960–2020) was an Argentine football legend, born on October 30, 1960, in Lanús, Argentina. Renowned for his exceptional skill, Maradona led Argentina to victory in the 1986 FIFA World Cup, where he produced the infamous "Hand of God" goal and the stunning solo effort against England. His club career included successful stints with Napoli and Barcelona. Maradona's dribbling ability, creativity, and passion for the game made him one of the greatest footballers of all time. Despite controversies, he remains an enduring and iconic figure in the history of the sport. Maradona passed away on November 25, 2020.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

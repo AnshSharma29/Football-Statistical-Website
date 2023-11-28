@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/maldini.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Paolo Cesare Maldini is an Italian football legend, born on June 26, 1968, in Milan, Italy. A highly respected defender, Maldini spent his entire professional career with A.C. Milan from 1984 to 2009. He captained both Milan and the Italian national team, earning a reputation for his exceptional defensive skills, leadership, and loyalty. Maldini won numerous domestic and international titles with Milan, including seven Serie A titles and five UEFA Champions League trophies. He retired in 2009, having made over 1000 appearances for Milan. Maldini is regarded as one of the greatest defenders in football history.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

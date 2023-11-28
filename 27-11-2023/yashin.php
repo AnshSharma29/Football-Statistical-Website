@@ -83,11 +83,17 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/yashin.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Lev Yashin, often referred to as the "Black Spider," was a Soviet football goalkeeper who is widely considered one of the greatest goalkeepers in the history of the sport. He was born on October 22, 1929, in Moscow, Soviet Union, and passed away on March 20, 1990.
+
+Yashin played his entire professional career for Dynamo Moscow, from 1950 to 1970. He was known for his exceptional reflexes, shot-stopping ability, and commanding presence in goal. Yashin won numerous individual awards during his career, including the prestigious Ballon d'Or in 1963, making him the only goalkeeper to have ever received the award.
+
+One of Yashin's most significant achievements was helping the Soviet Union national team reach the final of the 1966 FIFA World Cup in England. Although they lost to England in the final, Yashin's performances earned him widespread acclaim.
+
+Lev Yashin's goalkeeping style and innovations, such as coming off his line to intercept crosses and organize his defense, had a lasting impact on the position. His iconic all-black outfit and his remarkable contributions to the sport have left an indelible mark on football history.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

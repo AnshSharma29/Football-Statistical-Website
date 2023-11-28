@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/cyrff.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    Johan Cruyff (1947–2016) was a Dutch football legend, born on April 25, 1947, in Amsterdam. Renowned for his exceptional skill, vision, and intelligence on the field, Cruyff played a pivotal role in the development of "Total Football." He achieved success with Ajax and Barcelona as a player, winning multiple domestic and international titles. Cruyff also had a successful managerial career, particularly at Barcelona, where he implemented his football philosophy, leading the team to numerous successes. A three-time Ballon d'Or winner, Cruyff's impact on football extended beyond his playing days, influencing generations of players and coaches. He passed away on March 24, 2016.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

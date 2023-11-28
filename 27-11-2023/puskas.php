@@ -83,11 +83,12 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/puskas.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
                         
+Ferenc Puskás (1927–2006) was a legendary Hungarian footballer, renowned for his prolific goal-scoring ability and left-footed precision. He played a key role in the success of the Hungarian national team in the 1950s and achieved significant club success with Real Madrid, winning multiple domestic and international titles, including three European Cups. Puskás was part of the iconic 1954 Hungarian "Golden Team" that reached the World Cup final. His impact on football is celebrated through the FIFA Puskás Award, given for the most aesthetically significant goal each year.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>

@@ -83,11 +83,11 @@
             <div class="team-center container">
                 <div class="team" style="background-image: url('img/miami.png');">
                     <div class="img-cover">
-                        <img src="img/messi.jpeg" alt="Messi">
+                        <img src="img/david.jpeg" alt="Messi">
                     </div>
                     
                     <p style="background-color:black;">
-                        
+                    David Beckham, born on May 2, 1975, in London, England, is a former English footballer and a global icon. Known for his precise free kicks and crossing ability, Beckham enjoyed a distinguished career with clubs like Manchester United, Real Madrid, LA Galaxy, and Paris Saint-Germain. He won numerous domestic and international titles, including six Premier League titles and the UEFA Champions League. Beyond football, Beckham became a prominent figure in fashion, philanthropy, and entertainment. His marriage to Victoria Beckham, a member of the Spice Girls, contributed to their status as a high-profile celebrity couple. After retirement, Beckham continued to impact the sport and business world through various ventures.
                     </p>
                     <div class="stars">
                         <i class="fa fa-star"></i>
